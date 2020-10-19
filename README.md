@@ -1,5 +1,5 @@
 # BonelessPizzasTest
-This is a project that was created by my team Phong Nguyen, Mark Jones, John Foster, and myself.
+This is a project that was created by my team Phong Nguyen, Mark Jones, John Foster, and myself Ivan Gonzalez.
 
 This project was created to test our abilities to make an entire application that was well thought out and to replicate a real pizza application like pizza hut, papa johns, etc.
 
